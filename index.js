@@ -6,3 +6,4 @@ elementMain.remove();
 
 var newHeader = document.createElement("h1");
 newHeader.setAttribute("id", "victory");
+newHeader.setAttribute("name", "victory");
