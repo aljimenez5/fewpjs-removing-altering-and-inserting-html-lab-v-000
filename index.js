@@ -4,5 +4,5 @@ let elementMain = document.querySelector("main#main");
 elementMain.remove();
 
 
-var newHeader = document.createElement("h1#victory");
+var newHeader = document.createElement("h1");
 newHeader.setAttribute("id", "victory");
